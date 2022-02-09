@@ -1,0 +1,3 @@
+Assignment 02 :  For your Power BI project,  try searching open source datasets from Kaggle and other sources. Also try to brainstorm ideas on which you want to work upon.  
+Feel free to contact doubt support regarding Power BI and related projects.  
+
